@@ -1,0 +1,25 @@
+.buttons{
+    background-color: rgb(255, 230, 88);
+    color : black;
+} 
+
+body{
+    background-color:rgb(148, 248, 215);
+    color: white;
+}
+
+img{
+    height: 150px;
+    margin: 20px;
+}
+
+p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    color: rgb(138, 66, 138);
+}
+
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 75px;
+}
